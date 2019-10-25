@@ -7,7 +7,7 @@ nav,  .descargas, footer,  aside {
 }
 
 nav{
-    background-color: cornflowerblue;
+    background-color:#93C9D6;
 }
 
 *{
@@ -40,7 +40,8 @@ header div.logo{
 }
 
 header div.logo img{
-    width: 50%;
+    transform: translateX(5%) translateY(0%);
+    width: 100%;
     height: auto;
     display: block;
 }
@@ -51,11 +52,12 @@ header div.principal{
     transition: 1s all ease;
 }
 header div.principal h1{
-    color: #fff;
-    text-shadow: 2px 2px #0c3d66;
+    transform: translateX(40%) translateY(20%);
+   color: #fff;
+    text-shadow: 5px 2px #0c3d66;
     box-shadow: 2px 2px #082b47;
-    background:linear-gradient(#1a75c0,#1667aa);
-    padding: 10px;
+   background:linear-gradient(#1a75c0,#1667aa);
+    padding: 15px;
     border-radius: 5px;
     cursor: pointer;
     display: inline-block;
@@ -82,10 +84,11 @@ aside{
 
 
 =======
-* {margin: 0px;
-padding: 0px;}
+
 h1{color:blue} 
 body{background:#444;
 color: #000000;
+margin: 0px;
+padding: 0px;}
 }
 >>>>>>> f67bae4fd7c54799976cb0a6eb7dedf02faf8d08
