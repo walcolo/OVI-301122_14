@@ -76,17 +76,13 @@ aside{
 /* Menu de navegación */
 
 
-body{background:#444;
+body{background:rgb(55, 68, 141);
 color: #fff;
 margin: 0px;
 padding: 0px;}
 
-
-
-
-
     /*Menu*/
-    
+
     
     
     header h1{
@@ -112,8 +108,6 @@ padding: 0px;}
     text-align: center;
     }
   
-  
-   
 
     
     
@@ -175,6 +169,23 @@ padding: 0px;}
             margin: 30px 48px 50px 68px;
             text-align: justify;
 
-
     } 
-  
+
+
+/* multimedia */
+
+h2{
+    margin-left: 150px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+}
+
+iframe{
+    margin-left: 417.5px;
+    align-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
