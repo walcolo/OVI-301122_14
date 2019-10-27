@@ -70,9 +70,6 @@ aside{
 
 
 
-
-
-
 /* Menu de navegación */
 
 
@@ -106,10 +103,7 @@ padding: 0px;}
     text-align: center;
     text-decoration: #fff;
     text-align: center;
-    }
-  
-
-    
+    }    
     
     #contenido{
     width: 690px;
@@ -174,7 +168,7 @@ padding: 0px;}
 
 /* multimedia */
 
-h2{
+h3{
     margin-left: 150px;
     font-family: 'Libre Franklin', sans-serif;
     font-size: 40px;
