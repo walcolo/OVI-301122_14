@@ -49,8 +49,8 @@ header div.principal h1{
     transform: translateX(20%) translateY(5%);
    color: #fff;
     text-shadow: 5px 2px #0c3d66;
-    box-shadow: 2px 2px #082b47;
-   background:linear-gradient(#1a75c0,#1667aa);
+    box-shadow: 2px 2px #0c3d66;
+   background:linear-gradient(#0c3d66   ,#0c3d66);
     padding: 15px;
     border-radius: 5px;
     cursor: pointer;
@@ -73,7 +73,7 @@ aside{
 /* Menu de navegación */
 
 
-body{background:rgb(55, 68, 141);
+body{background:#082b47;
 color: #fff;
 margin: 0px;
 padding: 0px;}
@@ -105,6 +105,17 @@ padding: 0px;}
     text-align: center;
     }    
     
+   
+    
+        #texto{
+            width: 690px;
+            height:70px;
+            float: left;
+            background:#93C9D6 ;
+            margin-top: 10px;
+            margin-left: 10px;
+            }
+    
     #contenido{
     width: 690px;
     height:702px;
@@ -113,6 +124,7 @@ padding: 0px;}
     margin-top: 10px;
     margin-left: 10px;
     }
+
 
     
     #contenido h2{
@@ -183,3 +195,11 @@ iframe{
     margin-bottom: 20px;
     margin-top: 20px;
 }
+
+#lectura_1{
+height: 6   90px;
+
+
+
+}
+
