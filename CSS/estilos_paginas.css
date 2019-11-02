@@ -19,6 +19,8 @@ body {
     width: 400px;
 }
 
+
+
 h1{
     margin-top: 35px;
     font-family: 'Libre Franklin', sans-serif;
@@ -185,7 +187,7 @@ footer{
     background-color: rgb(8, 8, 8);
     width: 1300px;
     clear: both;
-    top: 710px;
+    top: 1100px;
 }
 footer img{
     margin: 0px;
@@ -250,4 +252,29 @@ li:hover{
     padding-right: 3rem;
     border-radius: 1rem 0 0 1rem;
     box-shadow: 0 0 .5rem rgba(0,0,0,0.42);
+}
+
+
+#actividad{
+	
+	width:40%;
+	height:auto;
+	margin:auto;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	
+}
+
+.autores{
+	
+	padding:10px;
+	width:320px;
+	margin:30px 10px 20px 20px;	
+	text-align:center;
+	background:#1f61c442;
+	border-radius:20px;
+	box-shadow:0px 0px 20px rgb(70, 73, 224);
+	
+	
 }
