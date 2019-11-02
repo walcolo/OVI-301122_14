@@ -278,3 +278,10 @@ li:hover{
 	
 	
 }
+.menu:link{color: white; text-decoration:none}
+.menu:visited{color: white; text-decoration:none} 
+
+li:hover{
+    background-color: #F0B429;
+    z-index: 1   
+}
